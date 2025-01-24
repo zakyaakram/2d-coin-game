@@ -15,7 +15,7 @@ This is a simple 2D platformer game developed in Unity where players control a c
 3. **Challenges**: Avoid getting caught by zombies as you navigate through the levels.  
 
 ##  Built With  
-- **Unity**: Developed using Unity Engine (version X.X).  
+- **Unity**: Developed using Unity Engine .  
 - **C#**: Used for scripting and gameplay logic.  
 
 ##  How to Run  
